@@ -7,7 +7,7 @@ The 2048 game is a combinatorial puzzle where players merge numbered tiles on a 
 **Key Features**
 **Heuristic-Based Evaluation:** Simple, computationally efficient strategies using predefined rules like prioritizing empty tiles, cornering high-value tiles, and maximizing merges.
 **Priority-Based Scoring**: Adds weighted scoring metrics, considering alignment, grid complexity, and corner strategy for improved decision-making.
-**Mo****nte Carlo Tree Search** (**MCTS**): A probabilistic algorithm simulating future states to evaluate moves based on their long-term potential.
+**Monte Carlo Tree Search** (**MCTS**): A probabilistic algorithm simulating future states to evaluate moves based on their long-term potential.
 **Explicit Min-Max Algorithm**: A deterministic approach balancing player moves and random tile placement probabilities for optimal gameplay.
 
 
